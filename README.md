@@ -17,7 +17,7 @@ Un lessico operativo: momentum, espansione e contrazione, metabolizzazione.
 
 ## Codice
 
-- [fitnessesistenziale](https://github.com/kallifane/fitnessesistenziale) — la landing di Fitness Esistenziale: HTML statico, zero dipendenze
+- [fitnessesistenziale](https://github.com/kallifane/fitnessesistenziale)
 - [mai-drugs](https://github.com/kallifane/mai-drugs)
 
 ## In costruzione
