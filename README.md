@@ -9,7 +9,7 @@ Sono un **Polipath**. Il filo che tiene insieme i miei percorsi è la **frizione
 - **Scrivo** → [substack.com/@kallifane](https://substack.com/@kallifane)
 - **Fitness Esistenziale** → [fitness-esistenziale.com](https://fitness-esistenziale.com/)
 - **Life Compass** → [fitness-esistenziale.com/life-compass.html](https://fitness-esistenziale.com/life-compass.html)
-- **Codice** → [kallifane/fitnessesistenziale](https://github.com/kallifane/fitnessesistenziale) (la landing: HTML statico, zero dipendenze)
+- **Codice** → [kallifane/fitnessesistenziale](https://github.com/kallifane/fitnessesistenziale) 
 
 ## In costruzione
 
